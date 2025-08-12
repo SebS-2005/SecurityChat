@@ -1,9 +1,9 @@
-//mmmm como que esta tampoco 
+
 public void main(){
-    system.out.println("hello world");
+    system.out.println("hola mundo");
 }
 
-//mmm como que no funciona esta 
+
 public void saludo(){
-    return "hola,como estas";
+    return "hi,how are you";
 }
